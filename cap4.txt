@@ -1,2 +1,3 @@
 cap4
 ataque zumbi ataca primeira vez
+mudando o final do ataque zumbi, detalhe final dos zumbis
